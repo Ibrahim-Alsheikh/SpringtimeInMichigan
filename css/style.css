@@ -1,0 +1,31 @@
+body{
+    font-family: 'Times New Roman', Arial, Tahoma; 
+    font-size: 100%;
+}
+header{
+    background-color: aquamarine;
+}
+nav{
+    background-color: aquamarine;
+}
+main{
+    background-color: aquamarine;
+    font-size: 90%;
+}
+footer{
+background-color: aquamarine;
+}
+li{
+    display: inline-block;
+    background-color: white;
+    width: 4cm;
+    text-align: center;
+}
+h1{
+    text-align: left;
+    font-family:'Times New Roman', Arial, Tahoma ;
+    color: #0062e4;
+}
+p{
+    line-height: 115%;
+}
