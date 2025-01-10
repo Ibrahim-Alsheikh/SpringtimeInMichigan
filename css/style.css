@@ -3,21 +3,21 @@ body{
     font-size: 100%;
 }
 header{
-    background-color: aquamarine;
+    background-color: #7FFFD4;
 }
 nav{
-    background-color: aquamarine;
+    background-color: #7FFFD4;
 }
 main{
-    background-color: aquamarine;
+    background-color: #7FFFD4;
     font-size: 90%;
 }
 footer{
-background-color: aquamarine;
+background-color: #7FFFD4;
 }
 li{
     display: inline-block;
-    background-color: white;
+    background-color: #FFFFFF;
     width: 4cm;
     text-align: center;
 }
